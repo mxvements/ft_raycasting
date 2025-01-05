@@ -7,6 +7,7 @@
 # include <stdbool.h>
 # include <math.h>
 
+# define DEBUG 1
 # define WIDTH 450
 # define HEIGHT 300
 # define PLAYER_SIZE 10
